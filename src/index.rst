@@ -1,12 +1,13 @@
-LaunchCode Curriculum Docs
-==========================
+User Experience Learning Track
+==============================
 
-This repository is a template for LaunchCode curriculum module sites to be hosted via GitHub Pages, either under `@LaunchCodeEducation`_ or `@LaunchCoderGirl`_.
-
-To set up a new curriculum module, see the `curriculum docs`_.
+This site is for CoderGirl's UX class.
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
+
+   lessons/lesson01
+   lessons/lesson02
 
 .. _@LaunchCodeEducation: https://github.com/launchcodeeducation
 .. _@LaunchCoderGirl: https://github.com/LaunchCoderGirlSTL
