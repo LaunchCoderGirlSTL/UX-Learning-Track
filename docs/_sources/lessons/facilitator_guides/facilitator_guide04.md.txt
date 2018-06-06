@@ -1,0 +1,125 @@
+# Contextual Inquiry/Interview Exercise
+
+## Objective
+Contextual inquiry/interviews involve collecting detailed information about customer/user work practice by observing and interviewing the user while they actually work. The researcher should stay in the background and let the user lead the situation as much as possible. This means that researcher tries to form a partnership with customer/user, i.e., learning (but not doing) as an apprentice while the customer is the master of the work. This helps the researcher understand the customer's work. The goal is to understand how and why something is done or why something is not done. The goal is also to understand current-state, ** not to design future-state **. Don’t ask things like, “if it did ABC, would it be better?”
+## Format
+Ideally one-on-one in persons/participant’s environment. If travel to the participant is not possible, these can be conducted via a web-meeting. These sessions are typically recorded as backup if something is missed during note taking. If recorded, and prior to recording, legally the participant has to consent to being recorded. If recording is not possible it is strongly recommended to have a note taker.
+
+## Output
+After all interviews are complete it is critical to analyze, summarize and report the data back to the entire team. These results will help drive the ideation/design phase.
+
+## Facilitator Best Practices
+After the interview session is complete, share your honest feedback with the facilitator on how they did on things like:
+* Active Listener
+* Empathetic
+* Non-Leading Questions/Discussions
+* Patient
+* Manage Time
+* Don’t Talk Too Much
+
+## Exercise
+Teams of three
+Take a few minutes to read through this document
+Each person take a turn being the facilitator, note taker, and participant (30 minutes each. Keep track of time.)
+Facilitator and note taker use the following guide to facilitate the session and capture notes
+At the end of each session, share feedback with the facilitator how they did regarding best practices
+Save your notes for next week!
+
+
+
+# Interview Facilitator Guide
+Interviewee: 					Interviewers: 					
+Persona:					Place					:
+Date & Time: 				
+Getting Started
+Introduce the team (facilitator and note taker) and thank the participant for taking the time out of their day to meet with you.
+Hello, my name is _____ and I will be facilitating our session today. And this is ____ she is here simply to take notes. Thank you for meeting with us today.
+Give an overview of why you’re there:
+We are here today to identify ways in which we can improve the library experience.
+Explain what will be covered during the meeting.
+First going to ask some questions regarding your past library experiences
+Then going to have you show me how you locate a book using the electronic catalog.
+Explain that what is said in the meeting is confidential and your name will not be tied to the results.
+If recording, explain that we would like to record the session in case we miss something in our notes. Ask the participant if they are ok with us recording the session. If they say “yes” begin recording and ask them again so that we have it on record.
+
+## Traditional Interview
+Demographic Information/Icebreakers
+These are mainly used to build a rapport with the person you are meeting with. This will make them feel more comfortable with you and be more open during the meeting.
+How often do you go to the library? (First let them answer, the ask: weekly, monthly, yearly? About how many times?)
+
+
+
+Do you have a library card? 		
+
+
+
+
+
+When you come to the library do you typically come alone or with others? If other who do you typically come with? 	
+
+
+
+
+
+Are you typically looking for items at the library for yourself or others? 		
+
+
+
+
+
+
+What type of things are you interested in as it relates to the library? (First let them answer. If they get stuck use these as examples: books, magazines, videos, events, etc.)
+
+
+
+
+
+
+
+
+When you come to the library do you typically know exactly what you want and/or do you come and browse?
+
+
+
+## Observation
+Explain: When you arrived, you were given a name of a book. I’d like for you to find where that book is located within the library by using the electronic catalog and then find the actual book.
+Note taker: This is where you observe them and take notes on everything they say, do, their facial expressions, the questions they ask etc.
+Facilitator: Observe and ask probing questions.
+If they get stuck or ask questions, don’t help them or answer their questions, ask them “so what would you do if I wasn’t’ here and you got stuck?” If they say they’d ask someone then have the ask someone and observe them during that interaction.
+Ask probing questions along them way. “You look confused, explain to me what you are thinking.” “Is that what you expected to see/happen?”
+Notes (capture everything and anything they say, do, ask, body language, every click they make, what direction they walk in, where are they looking, etc. etc.)
+
+
+
+
+Notes Continued (capture everything and anything they say, do, ask, body language, every click they make, what direction they walk in, where are they looking, etc. etc.)
+
+
+
+## Summarization
+In this phase the interviewer should summarize what they have learned during the interview. Be attentive to users’ reaction to your summary, because you do not want to get it wrong (they do not always tell you that you are wrong, so you have to figure it out by yourself). If you didn't get it right, ask questions and build the story together with them.   
+I’m going to summarize what I observed, please correct me if I misunderstood something.
+Notes (capture everything and anything they say…)
+
+
+## Closing
+When the conversation is done:
+Tell them the session is complete and ask if they have any final thoughts, ideas, feedback etc. (capture below)
+Thank the participant for taking the time to meet with you.
+Explain at a high level what your next steps are.
+We are having similar sessions with other people. We will combine all the results and look for opportunities to improve the experience.
+Notes (capture everything and anything they say…)
+
+
+
+
+
+## Facilitator Critique
+After the interview session is complete, share your honest feedback with the facilitator on how they did on things like:
+
+* Active Listener
+* Empathetic
+* Non-Leading Questions/Discussions
+* Patient
+* Manage Time
+* Don’t Talk Too Much
