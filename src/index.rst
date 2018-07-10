@@ -29,7 +29,3 @@ This site is for CoderGirl's UX class.
    lessons/lesson21
    lessons/lesson22
    lessons/lesson23
-
-.. _@LaunchCodeEducation: https://github.com/launchcodeeducation
-.. _@LaunchCoderGirl: https://github.com/LaunchCoderGirlSTL
-.. _curriculum docs: https://education.launchcode.org/curriculum-docs/
