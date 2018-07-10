@@ -5,25 +5,35 @@ Learning Objectives
 -------------------
 
 * What is UX?
+* What is a UX team?
 
 
 Prep Work
 ---------
 
-In-class Work
--------------
+1. Sign up for `Invision Studio <https://projects.invisionapp.com/d/signup/>`_. We will be using Invision throughtout the course.
+2. Complete this `personality test <https://www.16personalities.com/free-personality-test/>`_. Submit your personality test results below.
+
+In-class Activities
+-------------------
+
+We will be doing the following exercises in class:
+
+  * 5 Whys
+  * New to Me
+  * 30 Circles
+
+Make sure you are properly signed up for Slack before the end of the class!
 
 Assignments
 -----------
 
-1. `Science of Everyday Thinking <https://courses.edx.org/courses/course-v1:UQx+Think101x+1T2017/info/>`_
-2. `Myers Briggs Assessment <https://www.16personalities.com/free-personality-test/>`_
+1. `What is Human-Centered Design <http://www.designkit.org/>`_
+2. `Brief Introduction to Human Computer Interaction <https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/human-computer-interaction-brief-intro/>`_
+3. `Why Emotional Intelligence is important <https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/human-computer-interaction-brief-intro/>`_
+4. `Emotional Intelligence Test <https://globalleadershipfoundation.com/geit/eitest.html/>`_
 
 Additional Resources
 --------------------
 
-1. `Building and Maintaining your UX Portfolio <https://www.lynda.com/User-Experience-tutorials/Building-Maintaining-Your-UX-Design-Portfolio/483023-2.html/>`_
-2. `Why EQ is Important <https://www.fastcompany.com/3059481/7-reasons-why-emotional-intelligence-is-one-of-the-fastest-growing-job-skills/>`_
-3. `Developing Your Emotional Intelligence <https://www.lynda.com/Leadership-Management-tutorials/Developing-Your-Emotional-Intelligence/570966-2.html/>`_
-4. `EQ Test <https://globalleadershipfoundation.com/geit/eitest.html/>`_
-5. `Press Pause Play <https://youtu.be/-rvlaTg3vPg/>`_
+1. `Developing your Emotional Intelligence <https://www.lynda.com/Leadership-Management-tutorials/Developing-Your-Emotional-Intelligence/570966-2.html/>`_
