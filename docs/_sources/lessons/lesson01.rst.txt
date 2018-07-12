@@ -19,9 +19,11 @@ In-class Activities
 
 We will be doing the following exercises in class:
 
-* 5 Whys
-* New to Me
-* 30 Circles
+.. toctree::
+   :maxdepth: 1
+   
+   facilitator_guides/newtome
+   facilitator_guides/30circles
 
 Make sure you are properly signed up for Slack before the end of the class!
 

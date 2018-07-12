@@ -29,3 +29,12 @@ This site is for CoderGirl's UX class.
    lessons/lesson21
    lessons/lesson22
    lessons/lesson23
+
+In-class Activities
+-------------------
+
+.. toctree::
+   :maxdepth: 1
+
+   lessons/facilitator_guides/newtome
+   lessons/facilitator_guides/30circles
