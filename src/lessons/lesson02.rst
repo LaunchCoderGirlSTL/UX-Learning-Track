@@ -3,26 +3,35 @@ Lesson 2: EQ and Psychology
 
 Learning Objectives
 -------------------
-
-Prep Work
----------
+* Pyschology for UX
 
 In-class Work
 -------------
+We will be going over several important concepts in class.
+
+* Design Iceberg
+* The UX Pyramid of Needs
+* `Cognitive Bias <https://www.youtube.com/watch?v=wEwGBIr_RIw/>`_
+
+We will also be doing two activities in class.
+
+.. toctree::
+   :maxdepth: 1
+
+   facilitator_guides/tradingcards
+   facilitator_guides/interviewactivity
+
 
 Assignments
 -----------
 
-1. `Intro to User Experience <https://courses.edx.org/courses/course-v1:MichiganX+UX501x+3T2016/info/>`_
-2. `Creating Personas <https://www.lynda.com/User-Experience-tutorials/UX-Design-Techniques-Creating-Personas/490663-2.html/>`_
+1. `Overcoming Cognitive Bias in User Research <https://npr.design/overcoming-cognitive-bias-in-user-research-e4082f4506a/>`_
+2. `The Role of Empathy in Understanding Users <https://www.uxmatters.com/mt/archives/2017/12/the-role-of-empathy-in-understanding-users.php/>`_
 3. `Empathy Mapping <https://www.youtube.com/watch?v=kAdbbsZolOw/>`_
+4. `The Ladder of Inference <https://thesystemsthinker.com/the-ladder-of-inference/>`_
 
 Additional Resources
 --------------------
 
-1. `How To Make A UX Research Persona Part 1 <https://www.youtube.com/watch?v=gUGRzUP-Nhw/>`_
-2. `How To Make A UX Research Persona Part 2 <https://www.youtube.com/watch?v=2OQE4mXr1UE/>`_
-3. `Analyzing User Data <https://www.lynda.com/User-Experience-tutorials/UX-Design-Techniques-Analyzing-User-Data/490662-2.html/>`_
-4. `Interviewing <https://www.lynda.com/User-Experience-tutorials/UX-Research-Methods-Interviewing/546777-2.html/>`_
-5. `Empathy in Business <https://www.youtube.com/watch?v=P147-dK4lhA/>`_
-6. `Technology’s Empathy Gap <https://www.youtube.com/watch?v=4yzbhNFy4LY/>`_
+1. `Empathy in Business <https://www.youtube.com/watch?v=P147-dK4lhA/>`_
+2. `Technology’s Empathy Gap <https://www.youtube.com/watch?v=4yzbhNFy4LY/>`_
