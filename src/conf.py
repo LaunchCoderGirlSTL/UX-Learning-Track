@@ -71,6 +71,7 @@ html_theme = 'bootstrap'
 
 # sphinx_bootstrap_theme must be installed locally
 html_theme_path = sphinx_bootstrap_theme.get_html_theme_path()
+# print(html_theme_path)
 
 # The logo that will appear in the navbar, relative to _static
 html_logo = '_static/images/logos/codergirl-white.png'
