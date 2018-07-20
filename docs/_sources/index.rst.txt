@@ -1,7 +1,7 @@
 User Experience Learning Track
 ==============================
 
-This site is for CoderGirl's UX class. Hello
+This site is for CoderGirl's UX class.
 
 .. toctree::
    :maxdepth: 1
