@@ -40,3 +40,4 @@ In-class Activities
    lessons/facilitator_guides/30circles
    lessons/facilitator_guides/tradingcards
    lessons/facilitator_guides/interviewactivity
+   lessons/facilitator_guides/ciexercise
