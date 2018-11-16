@@ -3,6 +3,18 @@ User Experience Learning Track
 
 This site is for CoderGirl's UX class.
 
+About Us
+--------
+
+.. toctree::
+   :maxdepth: 1
+
+   lessons/about
+
+
+Lessons
+-------
+
 .. toctree::
    :maxdepth: 1
 
